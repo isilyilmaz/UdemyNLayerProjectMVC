@@ -86,6 +86,13 @@ C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProject.
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProject.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.dll
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProject.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.pdb
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProject.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.genruntimeconfig.cache
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.AssemblyInfoInputs.cache
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.AssemblyInfo.cs
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.csproj.CoreCompileInputs.cache
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.RazorAssemblyInfo.cache
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.RazorAssemblyInfo.cs
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.exe
@@ -147,13 +154,6 @@ C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectM
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.pdb
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Service.pdb
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.csproj.AssemblyReference.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.AssemblyInfoInputs.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.AssemblyInfo.cs
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.csproj.CoreCompileInputs.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.RazorAssemblyInfo.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.API.RazorAssemblyInfo.cs
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\staticwebassets\UdemyNLayerProjectMVC.API.StaticWebAssets.Manifest.cache
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\staticwebassets\UdemyNLayerProjectMVC.API.StaticWebAssets.xml
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\UdemyNLayerProjectMVC.API.styles.css

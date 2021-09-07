@@ -14,13 +14,6 @@ C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProject.
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.dll
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.pdb
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.genruntimeconfig.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.csproj.AssemblyReference.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.AssemblyInfoInputs.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.AssemblyInfo.cs
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.csproj.CoreCompileInputs.cache
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.dll
-C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.pdb
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.deps.json
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.runtimeconfig.json
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.runtimeconfig.dev.json
@@ -28,5 +21,12 @@ C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectM
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.pdb
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Core.dll
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Core.pdb
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.csproj.AssemblyReference.cache
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.AssemblyInfoInputs.cache
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.AssemblyInfo.cs
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.csproj.CoreCompileInputs.cache
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.csproj.CopyComplete
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.dll
+C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.pdb
 C:\Users\islyl\source\repos\isilyilmaz\UdemyNLayerProjectMVC\UdemyNLayerProjectMVC.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProjectMVC.Data.genruntimeconfig.cache

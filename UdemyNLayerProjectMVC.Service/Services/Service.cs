@@ -40,12 +40,12 @@ namespace UdemyNLayerProjectMVC.Service.Services
 
         public async Task<IEnumerable<TEntity>> GetAllAsync()
         {
-            return await _repository.getAllAsync();
+            return await _repository.GetAllAsync();
         }
 
         public async Task<TEntity> GetByIdAsync(int id)
         {
-            return await _repository.getByIdAsync(id);
+            return await _repository.GetByIdAsync(id);
         }
 
         public void Remove(TEntity entity)
