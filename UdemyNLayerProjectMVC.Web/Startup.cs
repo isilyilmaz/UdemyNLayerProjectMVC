@@ -16,6 +16,7 @@ using UdemyNLayerProjectMVC.Data;
 using UdemyNLayerProjectMVC.Data.Repositories;
 using UdemyNLayerProjectMVC.Data.UnitOfWorks;
 using UdemyNLayerProjectMVC.Service.Services;
+using UdemyNLayerProjectMVC.Web.Filters;
 
 namespace UdemyNLayerProjectMVC.Web
 {
@@ -33,7 +34,7 @@ namespace UdemyNLayerProjectMVC.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddAutoMapper(typeof(Startup));
-
+            services.AddScoped<NotFoundFilter>();
             //AddScoped() ne yapar?
             //Bir Request esnasinda IUnitOfWork ile bir classin constructer inda karsilasirsa;
             //gidecek UnitOfWork ten bir nesne ornegi alacak.

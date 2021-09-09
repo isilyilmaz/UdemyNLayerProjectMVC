@@ -4,7 +4,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using UdemyNLayerProjectMVC.Core.Models;
 using UdemyNLayerProjectMVC.Core.Services;
+using UdemyNLayerProjectMVC.Web.DTOs;
+using UdemyNLayerProjectMVC.Web.Filters;
 
 namespace UdemyNLayerProjectMVC.Web.Controllers
 {
@@ -19,9 +22,49 @@ namespace UdemyNLayerProjectMVC.Web.Controllers
             _mapper = mapper;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
+        {
+            var categories = await _categoryService.GetAllAsync();
+            return View(_mapper.Map<IEnumerable<CategoryDto>>(categories));
+        }
+
+        public IActionResult Create()
         {
             return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(CategoryDto categoryDto)
+        {
+            await _categoryService.AddAsync(_mapper.Map<Category>(categoryDto));
+
+            return RedirectToAction("Index");
+        }
+
+        //update/5
+        public async Task<IActionResult> Update(int id)
+        {
+            var category = await _categoryService.GetByIdAsync(id);
+
+            return View(_mapper.Map<CategoryDto>(category));
+        }
+
+        [HttpPost]
+        public IActionResult Update(CategoryDto categoryDto)
+        {
+            _categoryService.Update(_mapper.Map<Category>(categoryDto));
+
+            return RedirectToAction("Index");
+        }
+
+        [ServiceFilter(typeof(NotFoundFilter))]
+        public IActionResult Delete(int id)
+        {
+            var category = _categoryService.GetByIdAsync(id).Result;
+
+            _categoryService.Remove(category);
+
+            return RedirectToAction("Index");
         }
     }
 }
